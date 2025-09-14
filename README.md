@@ -53,5 +53,5 @@ With a solid foundation in software development and a problem-solving mindset, I
 
 #
 <details>
- <summary><h3>👨‍💻 Rolando's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
    From my early STEM studies through my Computer Engineering degree, I’ve built a strong foundation in problem-solving and software development, which grew further in my first role as Assistant Engineer I. Over the years, I’ve expanded my skills across both backend and frontend technologies—working with C#, .NET, PHP, Node.js, React, Blazor, and JavaScript—while also gaining deep experience with databases like MySQL and MS SQL. Along the way, I embraced modern practices such as REST API development, version control, and CI/CD pipelines using Azure DevOps, which strengthened my ability to deliver scalable, maintainable, and user-friendly solutions. Today, as a Programmer Analyst with 3+ years of experience, I continue to thrive on turning complex requirements into reliable systems, writing clean and efficient code, and staying curious about new frameworks and best practices that push me to grow as a developer.
